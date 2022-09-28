@@ -3,7 +3,7 @@
 ### <center> **Desarrolladora web frontend**
 ---
 - Soy estudiante de desarrollo de software en ITLA, apasionada por el desarrollo web.
-- Actualmente estoy aprendiendo **TypeScript** y **Java**.
+- Actualmente estoy aprendiendo **TypeScript** y **C#**.
 - Puedes contactar conmigo por correo: [mariannissanchez27@gmail.com](mailto:mariannissanchez27@gmail.com)
 ---
 ### **Lenguajes y herramientas:**
