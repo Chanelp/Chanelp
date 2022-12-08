@@ -12,10 +12,9 @@
 <img src="https://learn.microsoft.com/dotnet/media/dotnet-logo.png" alt="Net" width='50' height="50"/><img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" alt="SQL" width='50' height="50"/> <img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/e8da1282aaddbc1eaac7ae98c871adf1728a6b08/images/bootstrap.svg" alt="Boostrap" width='50' height="50"/> <img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/e8da1282aaddbc1eaac7ae98c871adf1728a6b08/images/git.svg" alt="Git" width='50' height="50"/> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Figma" width='50' height="50"/> 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanelp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanelp&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 **Chanelp/Chanelp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
