@@ -2,7 +2,7 @@
 <h3 align="center">Desarrolladora web frontend 👩‍💻</h3>
 <div align="center">
 - 💻 Soy estudiante de desarrollo de software en ITLA, apasionada por el desarrollo web. <br>
-- 🧩 Actualmente estoy aprendiendo C#. <br>
+- 🧩 Actualmente estoy aprendiendo <b> C# y Entity Framework. b> <br>
 - ✉️ Puedes contactar conmigo por correo: <a href="mailto:mariannissanchez27@gmail.com>mailto:mariannissanchez27@gmail.com</a> <br>
 <div>
   
