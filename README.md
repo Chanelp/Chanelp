@@ -36,6 +36,7 @@
   <hr>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanelp&layout=compact" alt="Lenguajes más usados"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chanelp&show_icons=true&theme=radical" alt="Métricas"/>
  </div>
   
   
