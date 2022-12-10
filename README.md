@@ -6,7 +6,7 @@
 ✉️ Puedes contactar conmigo por correo: <a href="mailto:mariannissanchez27@gmail.com">mariannissanchez27@gmail.com</a> <br>
 <div>
   
-</hr>
+<hr>
 <h3 align="center"> Lenguajes y herramientas: </h3>
   
 <div align="center">
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
 </div>
   
-  </hr>
+  <hr>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanelp&layout=compact" alt="Lenguajes más usados"/>
  </div>
