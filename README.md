@@ -1,9 +1,9 @@
-<h1 align="center">Hola, soy **Chanel Paredes.👋 </h1>
-<h3 align="center">Desarrolladora web frontend</h3>
+<h1 align="center"> 🌸 Hola, soy Chanel Paredes.🌸 </h1>
+<h3 align="center">Desarrolladora web frontend 👩‍💻</h3>
 <div align="center">
-- Soy estudiante de desarrollo de software en ITLA, apasionada por el desarrollo web y móvil.
-- Actualmente estoy aprendiendo **Angular** y **C#**.
-- Puedes contactar conmigo por correo: [mariannissanchez27@gmail.com](mailto:mariannissanchez27@gmail.com)
+- 💻 Soy estudiante de desarrollo de software en ITLA, apasionada por el desarrollo web.
+- 🧩 Actualmente estoy aprendiendo C#.
+- ✉️ Puedes contactar conmigo por correo: [mariannissanchez27@gmail.com](mailto:mariannissanchez27@gmail.com)
 <div>
   
 <hr/>
