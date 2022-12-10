@@ -2,7 +2,7 @@
 <h3 align="center">Desarrolladora web frontend 👩‍💻</h3>
 <div align="center">
 💻 Soy estudiante de desarrollo de software en ITLA, apasionada por el desarrollo web. <br>
-🧩 Actualmente estoy aprendiendo <b> C# y Entity Framework. <br>
+🧩 Actualmente estoy aprendiendo <b> C# y Entity Framework. </b> <br>
 ✉️ Puedes contactar conmigo por correo: <a href="mailto:mariannissanchez27@gmail.com">mariannissanchez27@gmail.com</a> <br>
 <div>
   
@@ -16,7 +16,7 @@
 
   </hr>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanelp&layout=compact alt="Lenguajes más usados"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanelp&layout=compact" alt="Lenguajes más usados"/>
  </div>
   
 <!--
