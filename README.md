@@ -1,13 +1,13 @@
 <h1 align="center"> 🌸 Hola, soy Chanel Paredes.🌸 </h1>
 <h3 align="center">Desarrolladora web frontend 👩‍💻</h3>
 <div align="center">
-- 💻 Soy estudiante de desarrollo de software en ITLA, apasionada por el desarrollo web. <br>
-- 🧩 Actualmente estoy aprendiendo <b> C# y Entity Framework. b> <br>
-- ✉️ Puedes contactar conmigo por correo: <a href="mailto:mariannissanchez27@gmail.com>mailto:mariannissanchez27@gmail.com</a> <br>
+💻 Soy estudiante de desarrollo de software en ITLA, apasionada por el desarrollo web. <br>
+🧩 Actualmente estoy aprendiendo <b> C# y Entity Framework. <br>
+✉️ Puedes contactar conmigo por correo: <a href="mailto:mariannissanchez27@gmail.com">mailto:mariannissanchez27@gmail.com</a> <br>
 <div>
   
 <hr/>
-<h3 align="center" Lenguajes y herramientas: </h3>
+<h3 align="center"> Lenguajes y herramientas: </h3>
   
 <div align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55"/><img src ="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/e8da1282aaddbc1eaac7ae98c871adf1728a6b08/images/html.svg" alt="html" width="45" height="45"/> <img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/e8da1282aaddbc1eaac7ae98c871adf1728a6b08/images/js.svg" alt="Javascript" width='45' height="45"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt="Angular" width='60' height="60"/> <img src="https://camo.githubusercontent.com/c38bf4a44750bd9b576a2259a5074dd277d63f0a412b5b1f31f54e516711ef5b/687474703a2f2f736173732d6c616e672e636f6d2f6173736574732f696d672f7374796c6567756964652f7365616c2d636f6c6f722d61656630333534632e706e67" alt="Sass" width='50' height="50"/> <img src="https://www.tutorialsteacher.com/Content/images/home/typescript.svg" alt="Typescript" width='50' height="50"/> 
