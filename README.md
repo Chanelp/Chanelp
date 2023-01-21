@@ -3,6 +3,7 @@
 <div align="center">
 💻 Soy estudiante de desarrollo de software en ITLA, apasionada por el desarrollo web. <br>
 🧩 Actualmente estoy aprendiendo <b> C# y Entity Framework. </b> <br>
+🚀 Revisa mi <a href="https://chanelp.github.io/">portafolio</a> para obtener más información sobre mí
 ✉️ Puedes contactar conmigo por correo: <a href="mailto:mariannissanchez27@gmail.com">mariannissanchez27@gmail.com</a> <br>
 <div>
   
