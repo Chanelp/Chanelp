@@ -1,5 +1,5 @@
 <h1 align="center"> 🌸 Hola, soy Chanel Paredes.🌸 </h1>
-<h3 align="center">Desarrolladora web frontend 👩‍💻</h3>
+<h3 align="center">Desarrolladora web junior 👩‍💻</h3>
 <div align="center">
 💻 Soy estudiante de desarrollo de software en ITLA, apasionada por el desarrollo web. <br>
 🧩 Actualmente estoy aprendiendo <b> Python y Django. </b> <br>
