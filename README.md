@@ -2,7 +2,7 @@
 <h3 align="center">Desarrolladora web junior 👩‍💻</h3>
 <div align="center">
 💻 Soy estudiante de desarrollo de software en ITLA, apasionada por el desarrollo web. <br>
-🧩 Actualmente estoy aprendiendo <b> Spring y Python. </b> <br>
+🧩 Actualmente estoy aprendiendo <b> Spring y Angular. </b> <br>
 🚀 Revisa mi <a href="https://chanelp.github.io/">portafolio</a> para obtener más información sobre mí <br>
 ✉️ Puedes contactar conmigo por correo: <a href="mailto:mariannissanchez27@gmail.com">mariannissanchez27@gmail.com</a> <br>
 <div>
